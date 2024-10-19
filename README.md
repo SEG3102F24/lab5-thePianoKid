@@ -1,4 +1,4 @@
-**Student name:** Gabriel Braden
+**Student name:** Gabriel Braden <br />
 **Student ID:** 300154707
 
 ---
